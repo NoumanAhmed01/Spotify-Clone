@@ -5,7 +5,7 @@
 This is a **Spotify Web Player Clone**, built using **HTML, CSS**. It replicates the UI of Spotify, providing features like sidebar navigation, music player controls, and responsive design.
 
 ## Preview
-
+https://noumanahmed01.github.io/Spotify-Clone/
 ## Features
 
 - 🎵 **Music Player UI** with playback controls
